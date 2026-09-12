@@ -19,5 +19,5 @@
 ![Vista Previa del Sistema](assets/pantalla.png)
 
 ## 5. Navegación
-- [Ver Arquitectura del Sistema](arquitectura.md)
+-[Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Volver al README Principal](../README.md)
