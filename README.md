@@ -1,25 +1,36 @@
-# Sistema de Gestion de Inventario - Techstore
+# Sistema de Gestión de Inventario - TechStore
 
 ## 1. Descripción del Proyecto
-Este sistema permite la **gestión integral de ventas e inventarios** optimizando el control de existencias en tiempo real. Fue diseñado para mejorar la eficiencia operativa en *Techstore*.
+
+Este es un **sistema de ventas e inventario en tiempo real** optimizado para el control de existencias y facturación[cite: 1]. Desarrollado exclusivamente para la empresa *TechStore*, permite **agilizar los procesos comerciales** y garantizar una administración eficiente[cite: 1].
 
 ## 2. Requisitos del Sistema
+
 - [x] Python 3.10 o superior instalado
 - [x] Base de Datos MySQL configurada
-- [ ] Documentacion tecnica completada
+- [ ] Documentación técnica completada
 
 ## 3. Módulos del Sistema
-| Modulo | Descripcion | Estado |
-| --- | --- | --- |
-| Autenticacion | Control de acceso y roles de usuario | Completado |
-| Inventario | Registro y conteo de productos | En Proceso |
-| Facturacion | Generacion de comprobantes de pago | Pendiente |
 
-## 4. Ejemplo de Codigo Fuente
-```python
+| Módulo | Descripción | Estado |
+| :--- | :--- | :--- |
+| Autenticación | Control de acceso y roles de usuario | Completado |
+| Inventario | Registro y conteo de productos | En Proceso |
+| Facturación | Generación de comprobantes de pago | Pendiente |
+
+## 4. Ejemplo de Código Fuente
+python
 def verificar_stock(cantidad):
-    if cantidad > 0:
-        return "Producto Disponible"
-    else:
-        return "Sin Stock"
-        ```
+if cantidad > 0:
+return "Producto Disponible"
+else:
+return "Sin Stock"
+## 5. Enlaces Útiles
+
+- [Repositorio Oficial en GitHub](https://github.com)
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Manual de Usuario](docs/manual_usuario.md)
+- [Ver Especificación de API](docs/api_endpoints.md)
+
+- [Repositorio Oficial en GitHub](https://github.com/viclaix66/documentacion-
+sistema-v1)
