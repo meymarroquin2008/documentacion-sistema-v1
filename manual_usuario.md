@@ -19,5 +19,8 @@
 ![Vista Previa del Sistema](assets/pantalla.png)
 
 ## 5. Navegación
--[Ver Arquitectura del Sistema](docs/arquitectura.md)
-- [Volver al README Principal](../README.md)
+# Manual de Usuario
+
+- [Volver al Inicio](../README.md)
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver API Endpoints](docs/api_endpoints.md)
