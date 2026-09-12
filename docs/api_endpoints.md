@@ -34,6 +34,6 @@ Esta sección documenta los servicios web (Web API) disponibles para la integrac
 ```
 ## 4. Navegación
 
-- [Ver Manual de Usuario](manual_usuario.md)
+- [Ver Manual de Usuario](../manual_usuario.md)
 - [Ver Arquitectura del Sistema](arquitectura.md)
 - [Volver al README Principal](../README.md)
