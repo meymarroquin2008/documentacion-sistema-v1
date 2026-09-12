@@ -10,7 +10,7 @@ Paso 3: Vinculación desde el README.md Principal
 
 3. El apartado 5 debe quedar redactado exactamente así:
 
-- [Ver Manual de Usuario](manual_usuario.md)
+- [Ver Manual de Usuario](../manual_usuario.md)
 - [Ver Arquitectura del Sistema](arquitectura.md)
 - [Volver al README Principal](../README.md)
 
