@@ -21,6 +21,6 @@
 ## 5. Navegación
 # Manual de Usuario
 
-- [Volver al Inicio](../README.md)
+- [Volver al Inicio](README.md)
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver API Endpoints](docs/api_endpoints.md)
