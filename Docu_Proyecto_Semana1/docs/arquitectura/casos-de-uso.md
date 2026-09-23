@@ -6,7 +6,7 @@ El presente documento define los requisitos funcionales del **Sistema de Gestió
 
 ## 2. Diagrama UML de Casos de Uso
 
-![Diagrama de Casos de Uso Hospitalario](../asset/casos_de_uso.png)
+![Diagrama de Casos de Uso Hospitalario](../assets/casos_de_uso.png)
 
 ## 3. Especificación de Relaciones
 
