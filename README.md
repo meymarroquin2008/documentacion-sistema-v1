@@ -26,10 +26,14 @@ return "Producto Disponible"
 else:
 return "Sin Stock"
 ## 5. Enlaces Útiles
-
-- [Repositorio Oficial en GitHub](https://github.com)
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Casos de Uso Hospitalario](docs/arquitectura/caso_de_uso.md)
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia_autenticacion.md)
+- [Ver Arquitectura de Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
+- [Ver Guía de Despliegue](docs/despliegue.md)
+- [Ver Politícas de Seguridad](docs/seguridad.md)
+- [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 
 - [Repositorio Oficial en GitHub](https://github.com/meymarroquin2008/documentacion-sistema-v1)
